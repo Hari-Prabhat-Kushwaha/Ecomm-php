@@ -1,0 +1,24 @@
+  
+ .cont {    overflow: hidden;
+    	   background-color: #000;
+        	color: #fff; 
+        	font-size:14px;}
+  #bannerimage { padding-top: 200px;
+	    	padding-bottom: 500px;
+	    	margin-bottom: 50px;
+ 			text-align: center;
+ 			color: #f8f8f8;
+ 			background-image: url("images/bg1.jpeg");
+ 			
+ 		} 
+ #bannercontent	{position: relative;
+	 		padding-top: 6%;
+ 			padding-bottom: 6%;
+ 			margin-top: 12%;
+ 			margin-bottom: 12%;
+ 			background-color: rgba(0, 0, 0, 0.7);
+ 			max-width: 660px;}
+ .row{ margin-right: 0px;
+ 	   margin-left: 0px;}
+	   		
+ 		      	
